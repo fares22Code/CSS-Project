@@ -1,0 +1,121 @@
+<style>
+
+header{
+    display: flex;
+    justify-content: flex-start;
+}
+body{
+    background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size:auto; 
+  background-position: center;
+font-family: "Roboto";
+font-weight: 400;
+  
+  
+  box-sizing: border-box;
+}
+
+hr{ 
+    border-top: 1px solid navy;
+}
+
+nav {
+	display: inline;
+    
+    color: blue;
+   
+    text-transform: capitalize;
+list-style-type: none;
+
+
+}
+   
+
+.first{
+    text-align: center;
+font-size: 30px;
+color: brown;
+
+
+}
+.second{
+    text-align: center;
+font-size: 23px;
+color: blueviolet;
+
+
+}
+.third{
+    text-align: center;
+    font-size: 17px;
+color: black;
+
+font-style:oblique;
+
+}
+
+.first2{
+    text-align: center;
+font-size: 30px;
+color: brown;
+
+
+}
+.second2{
+    text-align: center;
+font-size: 23px;
+color: blueviolet;
+
+
+}
+.third2{
+    text-align: center;
+    font-size: 17px;
+color: black;
+
+font-style:oblique;
+
+}
+.Resume{
+    text-align: center;
+font-size: 30px;
+color: brown;
+
+
+}
+img{
+    width: 40%;
+    background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Contact{
+    text-align: center;
+font-size: 30px;
+color: brown;
+
+
+}
+
+.img2{
+    
+    width: 250px;
+    height: 250px; 
+    
+}
+
+.img3{
+    
+    width: 320px;
+    height: 130px; 
+   
+}
+.send{
+    text-align: center;
+font-size: 21px;
+color: navy;
+
+}
+</style>
